@@ -1,0 +1,12 @@
+{
+  "name": "markdown_to_pdf",
+  "version": "0.0.1",
+  "description": "markdown_to_pdf package.json",
+  "author": "Ryosuke Hasebe",
+  "devDependencies": {
+    "split": "~0.3.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-markdown-pdf": "~2.1.1"
+  }
+}
