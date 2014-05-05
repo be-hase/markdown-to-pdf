@@ -47,4 +47,4 @@ And then, enter in the notation of markdown,
 ![hoge image]({{assets}}/images/hoge.png)
 ```
 
-(Because absolute path of the directory is different for each user, before converting to markdown to HTML, replace the absolute path in the regular expression part that says {{assets}}.)
+(Because absolute path of the directory is different from each user, before converting to markdown to HTML, replace "{{assets}}" with the appropriate absolute path.)
